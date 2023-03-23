@@ -1,0 +1,16 @@
+#Using Data Types with input
+
+name = str(input("What is your name :"))
+print(name)
+
+age = int(input("How old are you?:"))
+print(age)
+
+price = float(input("What is the price?"))
+print(price)
+
+character = str(input("Enter a character:"))
+print(character)
+
+name2 = str(input("Wait, What was your name again?"))
+print("Oh, Hi",name2)
