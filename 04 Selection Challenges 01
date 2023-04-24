@@ -1,0 +1,10 @@
+# 04 Selection Challenges 01
+
+number1 = input("Give me a number.")
+number2 = input("Give me another number.")
+
+if number1 > number2:
+  print(number2, number1)
+  
+else:
+  print(number1, number2)
