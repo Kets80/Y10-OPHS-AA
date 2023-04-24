@@ -1,0 +1,7 @@
+num1 = input("Enter a number 1,2 or 3")
+
+if num1 = ("1"):
+  print("thank you.")
+
+if num1 = ("2"):
+  print("well done")
