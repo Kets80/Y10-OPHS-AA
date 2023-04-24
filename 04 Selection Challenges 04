@@ -1,0 +1,9 @@
+# 04 Selection Challenges 04
+
+fcolour = input("Enter your favourite colour.")
+
+if fcolour == ("red") or fcolour == ("RED") or fcolour == ("Red") :
+
+  print("I like red too.")
+else:
+  print("I don't like", fcolour, ",", fcolour, " is for losers.")
