@@ -1,0 +1,11 @@
+#Challenge 4
+
+invite = "y"
+count = 0
+
+while invite == "y":
+  nam1 = str(input("Enter name of who you want to invite:"))
+  count = count + 1
+  invite = str(input("Would you like to invite someone else?"))
+
+print("You have invited", count, "people.")
